@@ -1,0 +1,25 @@
+# CHANGELOG   
+
+## 1.2.2
+Updated meta in the document
+
+## 1.2.1
+Added gitignore directory
+
+## 1.2.0   
+1. Updated Demo page.   
+2. Fixed an error that prevented Latin characters from displaying correctly.   
+3. Added .gitignore
+
+## 1.1.2   
+Added glyph in the domo page
+
+## 1.1.1   
+Updated grid-component stylesheet
+
+## 1.1.0   
+1. Added NanumBarunpen, NanumBrush, NanumGothicEco, NanumMyeongjoEco, NanumPen, NanumSquare, NanumSquareRound subset webfont
+2. Updated docs page   
+
+## 1.0.0   
+initial release   
